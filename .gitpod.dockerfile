@@ -1,5 +1,5 @@
-FROM gitpod/workspace-base
-#FROM gitpod/workspace-full
+#FROM gitpod/workspace-base
+FROM gitpod/workspace-full
 
 
 USER gitpod

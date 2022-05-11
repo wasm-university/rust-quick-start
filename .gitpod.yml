@@ -11,7 +11,6 @@ tasks:
 
     init: |
       echo "🚀"
-      npm install
       
 ports:
   - port: 8080
